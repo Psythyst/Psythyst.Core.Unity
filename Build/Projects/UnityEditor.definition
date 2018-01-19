@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExternalProject Name="UnityEditor">
+ <Platform Type="Windows">
+    <Binary Name="UnityEditor" Path="Library/UnityEditor.dll" />
+</Platform>
+ <Platform Type="Linux">
+    <Binary Name="UnityEditor" Path="Library/UnityEditor.dll" />
+</Platform>
+ <Platform Type="MacOS">
+    <Binary Name="UnityEditor" Path="Library/UnityEditor.dll" />
+</Platform>
+</ExternalProject>
